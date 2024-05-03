@@ -1,4 +1,4 @@
-# Clean Code Notes
+# Clean Code Notes...
 
 ## Table of contents
 
